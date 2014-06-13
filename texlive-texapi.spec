@@ -6,7 +6,7 @@
 # catalog-version 1.04
 Name:		texlive-texapi
 Version:	1.04
-Release:	6
+Release:	7
 Summary:	Macros to write format-independent packages
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/generic/texapi
