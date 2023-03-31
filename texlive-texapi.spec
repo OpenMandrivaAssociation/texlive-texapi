@@ -1,6 +1,6 @@
 Name:		texlive-texapi
 Version:	54080
-Release:	1
+Release:	2
 Summary:	Macros to write format-independent packages
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/generic/texapi
