@@ -3,7 +3,7 @@ Version:	54080
 Release:	2
 Summary:	Macros to write format-independent packages
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/generic/texapi
+URL:		https://www.ctan.org/tex-archive/macros/generic/texapi
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/texapi.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/texapi.doc.r%{version}.tar.xz
